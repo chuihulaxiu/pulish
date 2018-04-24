@@ -1,0 +1,1 @@
+cp /root/develop/github/pulish/Forum.war /root/develop/servers/apache-tomcat-8.5.30/webapps
